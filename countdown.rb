@@ -10,6 +10,3 @@ end
   puts "HAPPY NEW YEAR"
 end
 
-countdown_with_sleep
- sleep(1)
- end
