@@ -8,7 +8,7 @@ def countdown()
   seconds -= 1
   sleep(1.seconds)
 end
-  "HAPPY NEW YEAR"
+  puts "HAPPY NEW YEAR"
 end
 
 
